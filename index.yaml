@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  wsp22-national:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2024-11-16T08:54:29.223153723Z"
+    description: Web Service Provisioning - WorldSkills Korea National 2022
+    digest: 6855a5024152a07e1fbef41fa326694a1bcd78dd36a3f46ad134f108da57ab79
+    icon: https://www.worldskillsasia.net/en/PublishingImages/WorldskillsKorea.jpg
+    name: wsp22-national
+    type: application
+    urls:
+    - wsp22-national-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-16T08:54:29.222837988Z"
